@@ -1,0 +1,17 @@
+ID	 Name										Min. Radius		Max. Radius
+
+ 0 - Small Radar								 500			1500
+ 1 - Checkpoint									1500			2000
+ 2 - Small FOB / Large FOB						1500			2000
+ 3 - Enemy HQ									1000			1500
+ 4 - Cache										   0			1500
+ 5 - Officer									   0			1500
+ 6 - Armed Chopper								 500			1500
+ 7 - Special Forces								 500			1500
+ 8 - Investigate War Crimes						1000			2000
+ 9 - AA Units									 500			1500
+10 - Mortar Site								 500			1500
+11 - AT Units									 500			1500
+12 - Tank										 500			1500
+13 - AA-Tank									 500			1500
+14 - Long Range Comms Tower / Comms Tower		 500			1500
